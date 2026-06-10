@@ -1,3 +1,3 @@
 # How to use Create user Groups Scripts
 
-![Script Demo](demos/demos.gif)
+![Script Demo](demos/demo.gif)
